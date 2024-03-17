@@ -1,2 +1,3 @@
 First line of text here
 Second line of text here
+This text added from new-branch
